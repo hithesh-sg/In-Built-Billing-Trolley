@@ -46,7 +46,7 @@ In modern retail environments, long queues at billing counters frustrate custome
 
 ## 👨‍💻 Authors
 
-- SG. Hithesh (22H51A04B9)
+- Hithesh
 
 ## 📜 License
 
